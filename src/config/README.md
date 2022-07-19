@@ -1,0 +1,1 @@
+### The config you will use in multiple component.
